@@ -1,3 +1,11 @@
+if (!require("gplots")) {
+ install.packages("gplots", dependencies = TRUE)
+ library(gplots)
+ }
+if (!require("RColorBrewer")) {
+ install.packages("RColorBrewer", dependencies = TRUE)
+ library(RColorBrewer)
+ }
 library(gplots)
 library(RColorBrewer)
 
@@ -23,12 +31,6 @@ png("h2_default_clustering.png",
     height = 5*300,
     res = 300,            # 300 pixels per inch
     pointsize = 8)        # smaller font size
-
-# changes the distance measure and clustering method
-# NOTE: Matrix here not symmetrical. For symmetrical matrices
-# only one distance and cluster could and SHOULD be defined.
-# Distance options: euclidean (default), maximum, canberra, binary, minkowski, manhattan
-# Cluster options: complete (default), single, average, mcquitty, median, centroid, ward
 row_distance = dist(mat_data, method = "manhattan")
 row_cluster = hclust(row_distance, method = "ward.D")
 col_distance = dist(t(mat_data), method = "manhattan")
