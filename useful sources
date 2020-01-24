@@ -1,0 +1,30 @@
+Sr.no	Tool/Package	Title/Feature	Link
+1	Ampvis	Tools for visualising amplicon sequencing data	http://madsalbertsen.github.io/ampvis/
+2	CCREPE	Compositionality Corrected by PErmutation and REnormalization	http://bioconductor.org/packages/release/bioc/html/ccrepe.html
+3	DADA2	Divisive Amplicon Denoising Algorithm	https://www.nature.com/nmeth/journal/v13/n7/full/nmeth.3869.html
+4	DESeq2	Differential expression analysis for sequence count data	https://www.bioconductor.org/packages/devel/bioc/vignettes/phyloseq/inst/doc/phyloseq-mixture-models.html
+5	edgeR	empirical analysis of DGE in R	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2796818/
+6	mare	Microbiota Analysis in R Easily	https://github.com/katrikorpela/mare
+7	Metacoder	An R package for visualization and manipulation of community taxonomic diversity data	http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005404
+8	metagenomeSeq	Differential abundance analysis for microbial marker-gene surveys	http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2658.html
+9	microbiome R package	Tools for microbiome analysis in R	https://github.com/microbiome/microbiome
+10	MINT	Multivariate INTegrative method	https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1553-8
+11	mixDIABLO	Data Integration Analysis for Biomarker discovery using Latent variable approaches for ‘Omics studies.	http://mixomics.org/mixdiablo/
+12	mixMC	Multivariate Statistical Framework to Gain Insight into Microbial Communities	http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0160169
+13	MMinte	Methodology for the large-scale assessment of microbial metabolic interactions (MMinte) from 16S rDNA data	https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1230-3
+14	pathostat	Statistical Microbiome Analysis on metagenomics results from sequencing data samples	https://bioconductor.org/packages/release/bioc/html/PathoStat.html
+15	phylofactor	Phylogenetic factorization of compositional data	https://peerj.com/articles/2969/
+16	phylogeo	geographic analysis and visualization of microbiome data	https://www.ncbi.nlm.nih.gov/pubmed/25913208
+17	Phyloseq	 Import, share, and analyze microbiome census data using R	http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061217
+18	qiimer	R tools compliment qiime	https://github.com/kylebittinger/qiimer
+19	RAM	R for Amplicon-Sequencing-Based Microbial-Ecology	https://cran.r-project.org/web/packages/RAM/RAM.pdf
+20	ShinyPhyloseq	web-tool with user interface for Phyloseq	http://joey711.github.io/shiny-phyloseq/
+21	SigTree	Identify and Visualize Significantly Responsive Branches in a Phylogenetic Tree	http://www.sciencedirect.com/science/article/pii/S2001037017300132
+22	SPIEC-EASI	Sparse and Compositionally Robust Inference of Microbial Ecological Networks	http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004226
+23	structSSI	Simultaneous and Selective Inference for Grouped or Hierarchically Structured Data	https://www.jstatsoft.org/article/view/v059i13
+24	Tax4Fun	predicting functional profiles from metagenomic 16S rRNA gene data	https://www.ncbi.nlm.nih.gov/pubmed/25957349
+25	taxize	Taxonomic Information from Around the Web	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3901538/
+26	labdsv	Ordination and Multivariate Analysis for Ecology	https://cran.r-project.org/web/packages/labdsv/labdsv.pdf
+27	Vegan	R package for community ecologists	https://github.com/vegandevs/vegan
+28	igraph	Network Analysis and Visualization in R	http://igraph.org/r/
+29	MicrobiomeHD	A standardized database of human gut microbiome studies in health and disease (Case-Control)	http://www.biorxiv.org/content/early/2017/05/08/134031
